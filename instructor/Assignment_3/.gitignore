@@ -1,0 +1,4 @@
+*.pth
+*.model
+*.npy
+__pycache__
